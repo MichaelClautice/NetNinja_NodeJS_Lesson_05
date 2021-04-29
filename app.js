@@ -1,5 +1,8 @@
 
-// Lesson 05
+// Michael_Clautice, Richmond, VA
+// The Net Ninja - Node JS Tutorial for Beginners
+// Lesson 05 - Function Expressions
+//-------
 // NAMED FUNCTION DEFINITION
 function sayHi(){
     console.log("++++++++++++++++++");
