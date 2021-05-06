@@ -11,6 +11,7 @@ function sayHi(){
 };
 // invoke-run-call the function
 sayHi();
+//-------
 // ANONYMOUS FUNCTION DEFINITION EXPRESSION
 const sayBye = function(){
     console.log("•••••••••••••••••••");
@@ -19,6 +20,7 @@ const sayBye = function(){
 };
 // invoke-run the function
 sayBye();
+//-------
 // CALLBACK FUNCTION DEFINITION
 // function param is callback function
 // function runs callback function
@@ -42,3 +44,4 @@ var tellTheTruth = function(){
 // invoke-run-call the 1st function
 // send the callback function as arg
 firstFunction(tellTheTruth);
+//-------
