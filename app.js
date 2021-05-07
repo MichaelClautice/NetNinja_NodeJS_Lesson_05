@@ -1,11 +1,11 @@
 
-// Michael_Clautice, Richmond, VA
+// Michael Clautice, Richmond, VA
 // The Net Ninja - Node JS Tutorial for Beginners
 // Lesson 05 - Function Expressions
 //-------
 // NAMED FUNCTION DEFINITION
 function sayHi(){
-    console.log("++++++++++++++++++");
+    console.log("\n\n++++++++++++++++++");
     console.log("Aloha, from Maui!");
     console.log("++++++++++++++++++");
 };
@@ -14,7 +14,7 @@ sayHi();
 //-------
 // ANONYMOUS FUNCTION DEFINITION EXPRESSION
 const sayBye = function(){
-    console.log("•••••••••••••••••••");
+    console.log("\n\n•••••••••••••••••••");
     console.log("Good Bye, to You!");
     console.log("•••••••••••••••••••");
 };
@@ -33,7 +33,7 @@ var tellTheTruth = function(){
     var today = new Date();
     console.log(today);
     global.console.log('MIKE IS THE BESTEST!');
-    console.log("•••••••••••••••••••");
+    console.log("\n\n•••••••••••••••••••");
     console.log("cartoon face:");
     console.log("----------");
     console.log("--O---O---");
