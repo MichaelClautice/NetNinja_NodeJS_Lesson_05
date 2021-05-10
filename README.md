@@ -1,4 +1,4 @@
-# NetNinja_Lesson_05
+# NetNinja_NodeJS_Lesson_05
 Michael Clautice, Richmond, VA<br>
 The Net Ninja - Node JS Tutorial for Beginners<br> 
 Lesson 05 - Function Expressions  
